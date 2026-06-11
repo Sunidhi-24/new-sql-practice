@@ -4,9 +4,10 @@ Problem: Draw The Triangle 1
 Task:
 Print the pattern P(20)
 
-* * * * * * * * * * * * * * * * * * * *
-* * * * * * * * * * * * * * * * * * *
-...
+* * * * * 
+* * * * 
+* * * 
+* * 
 *
     
 Important Notes:
